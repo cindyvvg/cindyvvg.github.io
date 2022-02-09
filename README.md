@@ -70,6 +70,10 @@
 - Power BI（用於數據分析、視覺化圖表）
 
 ---
+### PDF
+
+![sad](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample.pdf)
+
 ### 專案
 
 ![sad](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample2.png)
