@@ -72,7 +72,7 @@
 ---
 ### PDF
 
-![sad](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample.pdf)
+![PDF 檔案](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample.pdf)
 
 ### 專案
 
