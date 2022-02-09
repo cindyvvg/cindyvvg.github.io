@@ -72,7 +72,7 @@
 ---
 ### 專案
 
-![sad](images/sample.png)
+![sad](/images/sample.png)
 
 
 
