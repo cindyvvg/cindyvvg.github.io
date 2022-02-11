@@ -16,7 +16,7 @@
    - 確立各用戶群與對應之使用介面的資訊層級
    - 規劃兼具良好使用體驗與商業價值的介面與流程
    - 訂立產品規格書、操作邏輯的撰寫與資料欄位的確認
-   - 繪製使用者 UI flow、頁面 wireframe(因專案未上線，僅於此展示部分成果：[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_01.pdf)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_02.pdf)、[文件3](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/wireframe_01.pdf)，詳細內容可於面談中說明）
+   - 繪製使用者 UI flow、頁面 wireframe(因專案未上線，僅於此展示部分成果：[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/uiflow_01.pdf)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/uiflow_02.pdf)、[文件3](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/wireframe_01.pdf)，詳細內容可於面談中說明）
    - 專案進度安排、掌控、協調
    - 內部驗收，掌握專案成果的質量
    - 外部提案供客戶驗收
