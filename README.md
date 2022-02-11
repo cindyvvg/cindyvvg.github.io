@@ -78,7 +78,7 @@
 ### 專案
 
 ![sad](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample2.png)
-[健身APP的功能趨勢](https://github.com/cindyvvg/cindyvvg.github.io/blob/main/reference_workout_APP.pdf)
+[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/mainreference_workout_APP.pdf)
 
 
 
