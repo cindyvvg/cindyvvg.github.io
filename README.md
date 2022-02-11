@@ -7,6 +7,7 @@
   * Email：cindy.vvg@gmail.com
   * Phone：0935-372373
 
+
 ---
 ### 接案（ 0.5 年）
 ## 產品經理 — 藝術品購物平台（製作中，仍未上線）（2021.7~2022.1）
@@ -37,12 +38,14 @@
   - 規劃跑步機內嵌式健身 APP （繪製[functional map](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_funtionalmap.pdf)、[UI flow](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_flowchart.pdf)、[wireframe](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_wireframe.pdf)）
   - [重塑公司的企業基本系統（CIS）](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/corestar_CIS_20210125.pdf)
 
+&emsp;
 
 ## 品牌企劃人員 — 微微一笑國際股份有限公司（2020.8~2020.10）
   - [遊戲產業鏈資料搜集](https://www.notion.so/787358ff46624c9fb3859502e3092c89)
   - 負責遊戲封面美術外包專案
   - 規劃公司內部廠商查詢系統（[規劃需求功能](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_draft.pdf)、[繪製wireframe](https://www.notion.so/web_wireframe-9449264cda3b4123bdc2e33031a2a728)、[功能說明書](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_2.pdf))
 
+&emsp;
 
 ## 專案企劃 — [愷偲品牌企劃](https://www.cosmo-br.com/works.php) （2019.1~2020.5）
 
