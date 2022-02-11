@@ -46,7 +46,7 @@
     
   ```
   - 搜集體育用品市場資料、[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
-  - 製作跑步機程式內部測試說明圖
+  - [製作跑步機程式內部測試說明圖](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/sole_F85_flowchart.pdf)
   - 規劃跑步機內嵌式健身 APP （繪製functional map、UI flow、wireframe）
   - 重塑公司的企業基本系統（CIS）
     
