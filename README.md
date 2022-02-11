@@ -74,6 +74,7 @@
 
 [PDF 檔案](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample.pdf)
 [PDF 檔案](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample3.pdf)
+[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
 
 ### 專案
 
