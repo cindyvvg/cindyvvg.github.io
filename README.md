@@ -66,10 +66,12 @@
 ### 接案（ 0.5 年）
 
 - **產品經理** — 藝術品購物平台（製作中，仍未上線）（2021.7~2022.1）
-    - 資料搜集，各大購物平台之功能彙整
-    - 確立使用者與對應之管理介面有哪些
-    - 訂立產品規格書
-    - 繪製使用者 UI flow、頁面 wireframe
+    - 瞭解客戶與目標用戶的需求，達成開發範圍、功能權重、時程與預算的共識
+    - 比較與分析各大型購物平台之功能，構建出合理、完整的產品框架
+    - 確立各用戶群與對應之使用介面的資訊層級
+    - 規劃兼具良好使用體驗與商業價值的介面與流程
+    - 訂立產品規格書、操作邏輯的撰寫與資料欄位的確認
+    - 繪製使用者 UI flow、頁面 wireframe(因專案未上線，僅於此展示部分成果：[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_01.pdf)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_02.pdf)、[文件3](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/wireframe_01.pdf)，詳細內容可於面談中說明）
     - 專案進度安排、掌控、協調
     - 內部驗收，掌握專案成果的質量
     - 外部提案供客戶驗收
