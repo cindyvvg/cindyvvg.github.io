@@ -47,7 +47,7 @@
   ```
   - 搜集體育用品市場資料、[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
   - [製作跑步機程式內部測試說明圖](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/sole_F85_flowchart.pdf)
-  - 規劃跑步機內嵌式健身 APP （繪製functional map、UI flow、wireframe）
+  - 規劃跑步機內嵌式健身 APP （繪製[functional map](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_funtionalmap.pdf)、[UI flow](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_flowchart.pdf)、[wireframe](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_wireframe.pdf)）
   - [重塑公司的企業基本系統（CIS）](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/corestar_CIS_20210125.pdf)
     
  
@@ -69,17 +69,6 @@
 - Axure（製作 UI flow、wireframe、prototype）
 - Power BI（用於數據分析、視覺化圖表）
 
----
-### PDF
-
-[PDF 檔案](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample.pdf)
-[PDF 檔案](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample3.pdf)
-[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
-
-### 專案
-
-![sad](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/images/sample2.png)
-[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/mainreference_workout_APP.pdf)
 
 
 
