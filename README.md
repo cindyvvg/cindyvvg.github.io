@@ -10,7 +10,7 @@
 ---
 ### 工作經歷（ 共 2 年）
 
-## **專案企劃** — [愷偲品牌企劃](https://www.cosmo-br.com/works.php) **（**2019.1~2020.5**）**
+## 專案企劃 — [愷偲品牌企劃](https://www.cosmo-br.com/works.php) （2019.1~2020.5）
 
    - #### 專案管理
     
@@ -41,14 +41,14 @@
     
 
      
-## **品牌企劃人員** — 微微一笑國際股份有限公司（2020.8~2020.10）
+## 品牌企劃人員 — 微微一笑國際股份有限公司（2020.8~2020.10）
   - [遊戲產業鏈資料搜集](https://www.notion.so/787358ff46624c9fb3859502e3092c89)
   - 負責遊戲封面美術外包專案
   - 規劃公司內部廠商查詢系統（[規劃需求功能](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_draft.pdf)、[繪製wireframe](https://www.notion.so/web_wireframe-9449264cda3b4123bdc2e33031a2a728)、[功能說明書](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_2.pdf))
 
 
 
-## **APP 產品開發企劃人員** — [合興數位股份有限公司](https://www.corestar.com.tw)（2020.10~2021.4）
+## APP 產品開發企劃人員 — [合興數位股份有限公司](https://www.corestar.com.tw)（2020.10~2021.4）
     
   ```
     
@@ -61,20 +61,21 @@
   - 規劃跑步機內嵌式健身 APP （繪製[functional map](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_funtionalmap.pdf)、[UI flow](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_flowchart.pdf)、[wireframe](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_wireframe.pdf)）
   - [重塑公司的企業基本系統（CIS）](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/corestar_CIS_20210125.pdf)
     
- 
+   
+---
 
 ### 接案（ 0.5 年）
 
-- **產品經理** — 藝術品購物平台（製作中，仍未上線）（2021.7~2022.1）
-    - 瞭解客戶與目標用戶的需求，達成開發範圍、功能權重、時程與預算的共識
-    - 比較與分析各大型購物平台之功能，構建出合理、完整的產品框架
-    - 確立各用戶群與對應之使用介面的資訊層級
-    - 規劃兼具良好使用體驗與商業價值的介面與流程
-    - 訂立產品規格書、操作邏輯的撰寫與資料欄位的確認
-    - 繪製使用者 UI flow、頁面 wireframe(因專案未上線，僅於此展示部分成果：[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_01.pdf)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_02.pdf)、[文件3](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/wireframe_01.pdf)，詳細內容可於面談中說明）
-    - 專案進度安排、掌控、協調
-    - 內部驗收，掌握專案成果的質量
-    - 外部提案供客戶驗收
+## 產品經理 — 藝術品購物平台（製作中，仍未上線）（2021.7~2022.1）
+   - 瞭解客戶與目標用戶的需求，達成開發範圍、功能權重、時程與預算的共識
+   - 比較與分析各大型購物平台之功能，構建出合理、完整的產品框架
+   - 確立各用戶群與對應之使用介面的資訊層級
+   - 規劃兼具良好使用體驗與商業價值的介面與流程
+   - 訂立產品規格書、操作邏輯的撰寫與資料欄位的確認
+   - 繪製使用者 UI flow、頁面 wireframe(因專案未上線，僅於此展示部分成果：[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_01.pdf)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/UIflow_02.pdf)、[文件3](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/wireframe_01.pdf)，詳細內容可於面談中說明）
+   - 專案進度安排、掌控、協調
+   - 內部驗收，掌握專案成果的質量
+   - 外部提案供客戶驗收
 
 ---
 ### 技能
