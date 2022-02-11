@@ -26,7 +26,8 @@
        - ###### 製作前訪談（承接、爬梳客戶需求）
        - ###### 資料蒐集、市場分析
        - ###### 協助內部團隊評估可行方案、規劃產品
-       - ###### 撰寫客戶網站文案、撰寫公司官網案例介紹文案
+       - ###### 撰寫客戶網站文案([脂·燒肉](https://www.abura.com.tw)、[協裕興製茶廠](https://www.sybesttea.com.tw))、撰寫公司官網案例介紹文案（[大喜得月](https://www.cosmo-br.com/works_case.php?id=250)、[維樂](https://www.cosmo-br.com/works_case.php?id=256)）
+       
 
 
      
@@ -45,7 +46,7 @@
   標準品，規劃功能的同時也會試想該APP能如何發展訂閱經濟的商業模式
     
   ```
-  - 搜集體育用品市場資料、[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
+  - 搜集健身用品市場資料、[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
   - [製作跑步機程式內部測試說明圖](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/sole_F85_flowchart.pdf)
   - 規劃跑步機內嵌式健身 APP （繪製[functional map](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_funtionalmap.pdf)、[UI flow](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_flowchart.pdf)、[wireframe](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_wireframe.pdf)）
   - [重塑公司的企業基本系統（CIS）](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/corestar_CIS_20210125.pdf)
