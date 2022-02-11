@@ -26,7 +26,7 @@
        - ###### 製作前訪談（承接、爬梳客戶需求）
        - ###### 資料蒐集、市場分析
        - ###### 協助內部團隊評估可行方案、規劃產品
-       - ###### 撰寫客戶網站文案([脂·燒肉](https://www.abura.com.tw)、[協裕興製茶廠](https://www.sybesttea.com.tw))、撰寫公司官網案例介紹文案（[大喜得月](https://www.cosmo-br.com/works_case.php?id=250)、[維樂](https://www.cosmo-br.com/works_case.php?id=256)）
+       - ###### 撰寫客戶網站文案([脂·燒肉](https://www.abura.com.tw)、撰寫公司官網案例介紹文案（[大喜得月](https://www.cosmo-br.com/works_case.php?id=250)、[維樂](https://www.cosmo-br.com/works_case.php?id=256)）
        
 
 
