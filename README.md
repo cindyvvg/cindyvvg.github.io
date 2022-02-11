@@ -45,7 +45,7 @@
   標準品，規劃功能的同時也會試想該APP能如何發展訂閱經濟的商業模式
     
   ```
-  - 搜集體育用品市場資料、健身APP的功能趨勢
+  - 搜集體育用品市場資料、[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
   - 製作跑步機程式內部測試說明圖
   - 規劃跑步機內嵌式健身 APP （繪製functional map、UI flow、wireframe）
   - 重塑公司的企業基本系統（CIS）
