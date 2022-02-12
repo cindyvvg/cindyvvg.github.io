@@ -1,7 +1,7 @@
 ## 鍾欣峰 Shin Feng Chung
 
 * PM（ 產品經理＋專案管理 ）
-* 學歷：清華大學經濟系學士（ 2018.6 畢業 ）
+* 清華大學經濟系學士（ 2018.6 畢業 ）
 * 聯絡方式
 
   * Email：cindy.vvg@gmail.com
@@ -23,7 +23,7 @@
  
 
 ---
-### 工作經歷（ 共 2 年）
+### 工作經歷（ 共 2 年 ）
 
 ## APP 產品開發企劃人員 — [合興數位股份有限公司](https://www.corestar.com.tw)（2020.10~2021.4）
     
@@ -69,7 +69,7 @@
      
    - #### 參與專案
        |類型|組成|代表專案|
-        |---|----|---|
+        |---|---|---|
         |網站設計|客製化網站：25個（佔最大比例）<br>客製化一頁式網站：2個<br>套版網站：2個|[沃夫寵物生活館](https://www.cosmo-br.com/works_case.php?id=270)<br>[薪豐豐業](https://www.cosmo-br.com/works_case.php?id=290)<br>[火租時尚平台](https://www.ohphire.com)|
         |平面設計|品牌基本應用系統：10個<br>包裝相關：6個<br>書本、簡介相關：4個|[原昌茶葉](https://www.cosmo-br.com/works_case.php?id=274)<br>[敦泰建設](https://www.cosmo-br.com/works_case.php?id=277)<br>[樂奕國際](https://www.cosmo-br.com/works_case.php?id=278)|
         |攝影|靜態攝影：4個<br>動態攝影：2個|[愛家牧場](https://www.cosmo-br.com/works_case.php?id=271)<br>[沃夫寵物生活館](https://www.cosmo-br.com/works_case.php?id=280)<br>[雅思展架](https://www.cosmo-br.com/works_case.php?id=302)|
