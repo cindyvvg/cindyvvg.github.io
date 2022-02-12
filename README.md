@@ -68,10 +68,11 @@
        - ###### 撰寫官網最新消息文章（[印刷讓設計活躍起來](https://www.cosmo-br.com/news_show.php?id=60)、[見微知著的攝影力量](https://www.cosmo-br.com/news_show.php?id=58))
    
     - #### test
-          |類型|組成|代表專案|
-          |---|----|---|
-          |aab|asdsad|asdasd|
-          |cc|asdsad|asd|
+    
+       |類型|組成|代表專案|
+       |---|----|---|
+       |aab|asdsad|asdasd|
+       |cc|asdsad|asd|
           
         
    - #### 參與專案
