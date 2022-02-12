@@ -67,10 +67,10 @@
        - ###### 撰寫公司官網案例介紹文案（[大喜得月](https://www.cosmo-br.com/works_case.php?id=250)、[維樂](https://www.cosmo-br.com/works_case.php?id=256)）
        - ###### 撰寫官網最新消息文章（[印刷讓設計活躍起來](https://www.cosmo-br.com/news_show.php?id=60)、[見微知著的攝影力量](https://www.cosmo-br.com/news_show.php?id=58))
    
-    - #### test
+    - #### test22
     
        |類型|組成|代表專案|
-       |---|----|---|
+       |---|---|---|
        |aab|asdsad|asdasd|
        |cc|asdsad|asd|
           
@@ -88,6 +88,11 @@
 - Axure（製作 UI flow、wireframe、prototype）
 - Power BI（用於數據分析、視覺化圖表）
 
+    
+|類型|組成|代表專案|
+|---|---|---|
+|aab|asdsad|asdasd|
+|cc|asdsad|asd|
 
 
 
