@@ -84,10 +84,5 @@
 - Power BI（用於數據分析、視覺化圖表）
 
     
-|類型|組成|代表專案|
-|---|---|---|
-|aab|asdsad|asdasd|
-|cc|asdsad|asd|
-
 
 
