@@ -66,15 +66,7 @@
        - ###### 撰寫客戶形象網站文案（[脂·燒肉](https://www.abura.com.tw)、[協裕興製茶廠](https://www.sybesttea.com.tw)、[上真沉香](https://szwood.tw)）
        - ###### 撰寫公司官網案例介紹文案（[大喜得月](https://www.cosmo-br.com/works_case.php?id=250)、[維樂](https://www.cosmo-br.com/works_case.php?id=256)）
        - ###### 撰寫官網最新消息文章（[印刷讓設計活躍起來](https://www.cosmo-br.com/news_show.php?id=60)、[見微知著的攝影力量](https://www.cosmo-br.com/news_show.php?id=58))
-   
-    - #### test22
-    
-       |類型|組成|代表專案|
-       |---|---|---|
-       |aab|asdsad|asdasd|
-       |cc|asdsad|asd|
-          
-        
+     
    - #### 參與專案
        |類型|組成|代表專案|
         |---|----|---|
