@@ -2,10 +2,9 @@
 
 * PM（ 產品經理＋專案管理 ）
 * 清華大學經濟系學士（ 2018.6 畢業 ）
-* 聯絡方式
-
-  * Email：cindy.vvg@gmail.com
-  * Phone：0935-372373
+* 聯絡方式<br>
+  Email：cindy.vvg@gmail.com<br>
+  Phone：0935-372373
 
 
 ---
