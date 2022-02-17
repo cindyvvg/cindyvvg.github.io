@@ -80,6 +80,7 @@
 ### 技能
 
 - Axure（製作 UI flow、wireframe、prototype）
+- Figma
 - Power BI（用於數據分析、視覺化圖表）
 
     
