@@ -31,11 +31,27 @@
   在職期間，我負責的產品線為快速架站系統、數據分析戰情室、企業 360VR 導覽除規劃產品功能外，尚推動既有功能優化，並整合公司內部產品，發展銷售模式或描繪數位服務藍圖。
     
   ```
-  - 搜集健身用品市場資料、[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
-  - [製作跑步機程式內部測試說明圖](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/sole_F85_flowchart.pdf)
-  - 規劃跑步機內嵌式健身 APP （繪製[functional map](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_funtionalmap.pdf)、[UI flow](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_flowchart.pdf)、[wireframe](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_wireframe.pdf)）
-  - [重塑公司的企業基本系統（CIS）](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/corestar_CIS_20210125.pdf)
-
+  - 快速架站系統
+    - 新功能開發：會議預約系統、詢價模組、會員模組（會員驅動引擎、會員等級成長模型、會員分眾經營、會員行為貼標）、行銷優惠模組、Layout Builder 規劃
+    - 既有功能優化
+    - 經銷方案規劃（鎖定經銷對象、建置教學手冊、發展經銷方案與合作方式、擬定經銷階段任務）
+    - 公司內部系統使用教育訓練
+  - 數據分析戰情室
+    - 數據分析 Dashboard：因應分析情境不同、檢視報表權限不同規劃差異化的視覺報表
+    - 整合公司各項獨家服務功能，規劃多方數據匯流的視覺化報表
+    - 搜集用戶行為足跡追蹤與數據分析的市場標竿產品，並測試導入公司產品的可行性
+  - 企業數位實境
+    - 各類型 VR 案例搜集，界定產品可行範疇
+    - 技術與工具研究（[Kuula](https://kuula.co/)、[Sirv](https://sirv.com)-產品 360 spin 展示、[pano2VR](https://ggnome.com/pano2vr/)）
+    - 奠定 3D 建模廠商長期合作關係
+    - 發展 VR 產品銷售方案
+  - 標案撰寫（農糧署台灣米好讚形象網站）
+    - 需求訪談、設計風格提案
+    - 功能規劃、撰寫規格書
+    - wireframe 繪製
+    - 專案控管
+    - 數據分析月報
+    
 &emsp;
 
 
@@ -97,6 +113,7 @@
 - Axure（製作 UI flow、wireframe、prototype）
 - Figma
 - Power BI（用於數據分析、視覺化圖表）
+- html 
 
     
 
