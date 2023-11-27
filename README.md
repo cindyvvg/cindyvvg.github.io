@@ -22,7 +22,22 @@
  
 
 ---
-### 工作經歷（ 共 2 年 ）
+### 工作經歷（ 共 4 年 ）
+## 產品管理師 — [久大寰宇資訊股份有限公司](https://www.isb.com.tw/)（2021.3～仍在職）
+    
+  ```
+    
+  公司營運目標協助企業建立數位資產，提供數位資產變現的商業策略。主要產品包含快速架站系統、數據分析戰情室、SEO 搜尋引擎優化、B2B 商業媒合系統等、智慧媒合發信服務。
+  在職期間，我負責的產品線為快速架站系統、數據分析戰情室、企業 360VR 導覽除規劃產品功能外，尚推動既有功能優化，並整合公司內部產品，發展銷售模式或描繪數位服務藍圖。
+    
+  ```
+  - 搜集健身用品市場資料、[健身APP的功能趨勢](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/reference_workout_APP.pdf)
+  - [製作跑步機程式內部測試說明圖](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/sole_F85_flowchart.pdf)
+  - 規劃跑步機內嵌式健身 APP （繪製[functional map](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_funtionalmap.pdf)、[UI flow](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_flowchart.pdf)、[wireframe](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/standard_wireframe.pdf)）
+  - [重塑公司的企業基本系統（CIS）](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/corestar_CIS_20210125.pdf)
+
+&emsp;
+
 
 ## APP 產品開發企劃人員 — [合興數位股份有限公司](https://www.corestar.com.tw)（2020.10~2021.4）
     
