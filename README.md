@@ -4,12 +4,17 @@
 * 清華大學經濟系學士（ 2018.6 畢業 ）
 * 聯絡方式<br>
   Email：cindy.vvg@gmail.com<br>
-  Phone：0935-372373
+  Phone：0935-3723-73
 
 
 ---
-### Side Project（ 0.5 年 ）
-## 產品經理 — 藝術品購物平台（ 製作中，仍未上線 ）（ 2021.7~2022.1 ）
+### Side Project
+## 產品負責人 — 自動架站服務系統
+   - 
+     
+&emsp;
+
+ ## 產品經理 — 藝術品購物平台（ 製作中，仍未上線 ）
    - 瞭解客戶與目標用戶的需求，達成開發範圍、功能權重、時程與預算的共識
    - 比較與分析各大型購物平台之功能，構建出合理、完整的產品框架
    - 確立各用戶群與對應之使用介面的資訊層級
@@ -19,7 +24,6 @@
    - 專案進度安排、掌控、協調
    - 內部驗收，掌握專案成果的質量
    - 外部提案供客戶驗收
- 
 
 ---
 ### 工作經歷（ 共 4 年 ）
@@ -36,6 +40,7 @@
     - 既有功能優化
     - 經銷方案規劃（鎖定經銷對象、建置教學手冊、發展經銷方案與合作方式、擬定經銷階段任務）
     - 公司內部系統使用教育訓練
+    - 優化開站流程（例如：建立網站建置調查表、優化客戶轉站資料批量上傳流程）
   - 數據分析戰情室
     - 數據分析 Dashboard：因應分析情境不同、檢視報表權限不同規劃差異化的視覺報表
     - 整合公司各項獨家服務功能，規劃多方數據匯流的視覺化報表
@@ -51,6 +56,8 @@
     - wireframe 繪製
     - 專案控管
     - 數據分析月報
+  - 企業數位轉型服務大型提案
+    - Stakeholder Map
     
 &emsp;
 
@@ -73,7 +80,7 @@
 ## 品牌企劃人員 — [微微一笑國際股份有限公司](https://www.twincn.com/item.aspx?no=85114882)（2020.8~2020.10）
   - [遊戲產業鏈資料搜集](https://www.notion.so/787358ff46624c9fb3859502e3092c89)
   - 負責遊戲封面美術外包專案
-  - 規劃公司內部廠商查詢系統（[規劃需求功能](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_draft.pdf)、[繪製wireframe](https://www.notion.so/web_wireframe-9449264cda3b4123bdc2e33031a2a728)、[功能說明書](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_2.pdf))
+  - 規劃公司內部廠商查詢系統（[規劃需求功能](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_draft.pdf)、[繪製 wireframe](https://www.notion.so/web_wireframe-9449264cda3b4123bdc2e33031a2a728)、[功能說明書](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/searchsystem_2.pdf))
 
 &emsp;
 
