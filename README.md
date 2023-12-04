@@ -10,7 +10,14 @@
 ---
 ### Side Project
 ## 產品負責人 — 自動架站服務系統
-   - 
+   - 市場分析、競品搜集與比較、界定市場發展階段
+   - 訂定功能開發優先權重
+   - 撰寫專案啟動文件
+   - 統合規劃三大介面功能（品牌官網、架站服務中控中心、會員中心）
+   - 繪製各介面 UI flow、wireframe
+   - 制定產品訂閱方案與方案涵蓋功能
+   - 品牌吉祥物互動腳本發想
+   - 收斂功能制定 MVP 模型（一頁式自動化架站服務）
      
 &emsp;
 
@@ -51,13 +58,16 @@
     - 奠定 3D 建模廠商長期合作關係
     - 發展 VR 產品銷售方案
   - 標案撰寫（農糧署台灣米好讚形象網站）
-    - 需求訪談、設計風格提案
-    - 功能規劃、撰寫規格書
+    - [需求訪談、設計風格提案](https://imaginary-poet-e8a.notion.site/821778b44fbd4dc0b1ad55b36461ce88?pvs=4)
+    - [功能規劃、撰寫規格書](https://docs.google.com/spreadsheets/d/17736-TTiePrCIg8UZ3ouz-CrVKw7RuI13MN16eJVaaU/edit?usp=sharing)
     - wireframe 繪製
     - 專案控管
     - 數據分析月報
   - 企業數位轉型服務大型提案
     - Stakeholder Map
+    - Service Blueprint
+    - 產業型態分析
+    - Persona 建立
     
 &emsp;
 
@@ -118,9 +128,11 @@
 ### 技能
 
 - Axure（製作 UI flow、wireframe、prototype）
-- Figma
+- Figma （繪製協作文件，UI flow、wireframe、prototype）
+- Miro（統整管理與製作專案協作文件）
 - Power BI（用於數據分析、視覺化圖表）
-- html 
+- html （略懂基礎，可以協助修改版型）
+- Jira（專案管理工具）
 
     
 
