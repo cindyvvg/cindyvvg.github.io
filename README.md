@@ -10,14 +10,14 @@
 ---
 ### Side Project
 ## 產品負責人 — 自動架站服務系統
-   - 市場分析、競品搜集與比較、界定市場發展階段
-   - 訂定功能開發優先權重
-   - 撰寫專案啟動文件
-   - 統合規劃三大介面功能（品牌官網、架站服務中控中心、會員中心）
-   - 繪製各介面 UI flow、wireframe
+   - 市場分析、競品搜集與比較、[界定市場發展階段](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_產品階段目標用戶.png)
+   - [訂定功能開發優先權重](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_Features&Priority_產品主功能與優先排序.png)
+   - 撰寫[專案啟動文件](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_專案啟動文件.png)
+   - 統合規劃[三大介面功能](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_資訊架構文件.png)（品牌官網、架站服務中控中心、會員中心）
+   - 繪製各介面 UI flow、wireframe：[UI flow 1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_UI flow_01.pdf)、[UI flow 2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_UI flow_02.png)、[wireframe 1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_wireframe_01.png)、[wireframe 2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_wireframe_02.png)、[wireframe 3](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_wireframe_03.png)、[wireframe 4](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_wireframe_04.png)
    - 制定產品訂閱方案與方案涵蓋功能
-   - 品牌吉祥物互動腳本發想
-   - 收斂功能制定 MVP 模型（一頁式自動化架站服務）
+   - 品牌[吉祥物互動腳本](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_吉祥物互動腳本.png)發想
+   - 收斂功能制定 [MVP 模型](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_架站服務主線_MVP.png)（一頁式自動化架站服務）
      
 &emsp;
 
@@ -43,7 +43,7 @@
     
   ```
   - 快速架站系統
-    - 新功能開發：會議預約系統、詢價模組、會員模組（會員驅動引擎、會員等級成長模型、會員分眾經營、會員行為貼標）、行銷優惠模組、Layout Builder 規劃
+    - 新功能開發：會議預約系統([文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3_會議管理_20220620.pdf)、pdf/N3_我的會議_20220531.pdf）、詢價模組、會員模組（會員驅動引擎、會員等級成長模型、會員分眾經營、會員行為貼標）、行銷優惠模組、Layout Builder 規劃、推薦系統（[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3-推薦區塊.png)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3-推薦對象.png))
     - 既有功能優化
     - 經銷方案規劃（鎖定經銷對象、建置教學手冊、發展經銷方案與合作方式、擬定經銷階段任務）
     - 公司內部系統使用教育訓練
@@ -52,6 +52,7 @@
     - 數據分析 Dashboard：因應分析情境不同、檢視報表權限不同規劃差異化的視覺報表
     - 整合公司各項獨家服務功能，規劃多方數據匯流的視覺化報表
     - 搜集用戶行為足跡追蹤與數據分析的市場標竿產品，並測試導入公司產品的可行性
+    - 貼標系統（[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3_貼標系統中控中心.png)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3_貼標情境-訪客使用情境.png))
   - 企業數位實境
     - 各類型 VR 案例搜集，界定產品可行範疇
     - 技術與工具研究（[Kuula](https://kuula.co/)、[Sirv](https://sirv.com)-產品 360 spin 展示、[pano2VR](https://ggnome.com/pano2vr/)）
@@ -63,10 +64,11 @@
     - wireframe 繪製
     - 專案控管
     - 數據分析月報
-  - 企業數位轉型服務大型提案
+  - 企業數位轉型服務[大型提案](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/B2C數位導客服務簡報.pdf)
     - Stakeholder Map
+    - 構思商業模型
     - Service Blueprint
-    - 產業型態分析
+    - [產業型態分析](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/產業型態分析.png)
     - Persona 建立
     
 &emsp;
