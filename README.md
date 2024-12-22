@@ -9,10 +9,25 @@
 
 ---
 ### Side Project
+## 產品規劃 — 微信小程序管理後台（心理測評APP）
+   - 系統性檢視微信小程序的功能模組，並梳理出後台管理員需要維護的核心欄位（[產品協作文件](https://drive.google.com/file/d/1an-8n8hsgHd_TUPf1uqQZO3M1eNRj8Aa/view?usp=drive_link)）、（[功能架構 1](https://drive.google.com/file/d/1FlsT5bZl0fyJsnFh2PYL_GYg5rcWot-Y/view?usp=drive_link)）、（[功能架構 2](https://drive.google.com/file/d/1a-_AdSuvG-RLRXU6Op521GrSDYi2Eb8Q/view?usp=drive_link)）、（[wireframe 1](https://drive.google.com/file/d/1KpU81jJG5RyeWynknJJqPPjY5q0ZZRLW/view?usp=drive_link)）、（[wireframe 2](https://drive.google.com/file/d/1akzFH9pdO5SM5I7C4N9FOa1JONa-Zmla/view?usp=drive_link)）
+     - 會員管理
+     - 儲值管理與點數存續機制
+     - 會員 MGM 返現機制
+     - 測評題目管理
+     - 測評報告等級管理
+   - 提出產品優化建議
+     - 增加數據可視化模組，提升後台管理員的數據洞察力
+     - 強化會員分級管理功能，實現精準化用戶運營
+     - 建立測評報告分級制度，每個層級的報告對應不同的支付門檻，讓用戶可以根據需求付費解鎖適配自己的報告等級
+
+&emsp;
+
 ## 產品規劃 — 安可日子（創作媒合平台）
    - 思考現行系統與新功能相容性
-   -  規劃 KOC 邀稿流程、派案流程、線上校稿流程 （[規格書](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/安可_P3_規格書.pdf)）
-   -  規劃安可總後台、企業主後台、KOC 後台的互動流程 （[wireframe 1](https://drive.google.com/file/d/1Y_26ULp7Wl20E0Ie7h4h4WM0GtviSVcg/view?usp=drive_link))、（[wireframe 2](https://drive.google.com/file/d/1NsmGc3CYQJp9Wi95LDAwUoWVUVAYx1kn/view?usp=drive_link)) 、（[wireframe 3](https://drive.google.com/file/d/1COh79WOxyEW7XmpCYziSlGHkZpIkdnzZ/view?usp=drive_link)) 、（[wireframe 4](https://drive.google.com/file/d/17deYZca9GJbsIzlLt7cqvcV6LZ8P_Td0/view?usp=drive_link))
+   - 規劃 KOC 邀稿流程、派案流程、線上校稿流程 （[規格書](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/安可_P3_規格書.pdf)）
+   - 規劃安可總後台、企業主後台、KOC 後台的互動與管理流程 （[wireframe 1](https://drive.google.com/file/d/1Y_26ULp7Wl20E0Ie7h4h4WM0GtviSVcg/view?usp=drive_link))、（[wireframe 2](https://drive.google.com/file/d/1NsmGc3CYQJp9Wi95LDAwUoWVUVAYx1kn/view?usp=drive_link)) 、（[wireframe 3](https://drive.google.com/file/d/1COh79WOxyEW7XmpCYziSlGHkZpIkdnzZ/view?usp=drive_link)) 、（[wireframe 4](https://drive.google.com/file/d/17deYZca9GJbsIzlLt7cqvcV6LZ8P_Td0/view?usp=drive_link))
+
 &emsp;
 
 ## 產品負責人 — 自動架站服務系統
