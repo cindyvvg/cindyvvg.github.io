@@ -9,6 +9,12 @@
 
 ---
 ### Side Project
+## 產品規劃 — 安可日子（創作媒合平台）
+   - 思考現行系統與新功能相容性
+   -  規劃 KOC 邀稿流程、派案流程、線上校稿流程 [[規格書](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/安可_P3_規格書.pdf)
+   -  規劃安可總後台、企業主後台、KOC 後台的互動流程 [wireframe 1]（https://drive.google.com/file/d/1NsmGc3CYQJp9Wi95LDAwUoWVUVAYx1kn/view?usp=drive_link）、 [wireframe 2]（https://drive.google.com/file/d/1COh79WOxyEW7XmpCYziSlGHkZpIkdnzZ/view?usp=drive_link）、 [wireframe 3]（https://drive.google.com/file/d/17deYZca9GJbsIzlLt7cqvcV6LZ8P_Td0/view?usp=drive_link）
+&emsp;
+
 ## 產品負責人 — 自動架站服務系統
    - 市場分析、競品搜集與比較、[界定市場發展階段](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_產品階段目標用戶.png)
    - [訂定功能開發優先權重](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/2.0_Features&Priority_產品主功能與優先排序.png)
