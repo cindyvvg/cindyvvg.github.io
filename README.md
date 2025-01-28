@@ -98,7 +98,7 @@
     
   ```
   - 快速架站系統
-    - 新功能開發：會議預約系統([文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3_會議管理_20220620.pdf)、pdf/N3_我的會議_20220531.pdf）、詢價模組、會員模組（會員驅動引擎、會員等級成長模型、會員分眾經營、會員行為貼標）、行銷優惠模組、Layout Builder 規劃、推薦系統（[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3-推薦區塊.png)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3-推薦對象.png))
+    - 新功能開發：會議預約系統([文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3_會議管理_20220620.pdf)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3_我的會議_20220531.pdf）)、詢價模組、會員模組（會員驅動引擎、會員等級成長模型、會員分眾經營、會員行為貼標）、行銷優惠模組、Layout Builder 規劃、推薦系統（[文件1](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3-推薦區塊.png)、[文件2](https://raw.githubusercontent.com/cindyvvg/cindyvvg.github.io/main/pdf/N3-推薦對象.png))
     - 既有功能優化
     - 經銷方案規劃（鎖定經銷對象、建置教學手冊、發展經銷方案與合作方式、擬定經銷階段任務）
     - 公司內部系統使用教育訓練
